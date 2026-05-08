@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TUGAS PBO": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

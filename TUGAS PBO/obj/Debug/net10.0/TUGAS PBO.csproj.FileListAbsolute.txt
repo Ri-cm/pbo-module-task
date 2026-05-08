@@ -1,0 +1,14 @@
+D:\PBO PRAK\TUGAS PBO\TUGAS PBO\bin\Debug\net10.0\TUGAS PBO.exe
+D:\PBO PRAK\TUGAS PBO\TUGAS PBO\bin\Debug\net10.0\TUGAS PBO.deps.json
+D:\PBO PRAK\TUGAS PBO\TUGAS PBO\bin\Debug\net10.0\TUGAS PBO.runtimeconfig.json
+D:\PBO PRAK\TUGAS PBO\TUGAS PBO\bin\Debug\net10.0\TUGAS PBO.dll
+D:\PBO PRAK\TUGAS PBO\TUGAS PBO\bin\Debug\net10.0\TUGAS PBO.pdb
+D:\PBO PRAK\TUGAS PBO\TUGAS PBO\obj\Debug\net10.0\TUGAS PBO.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBO PRAK\TUGAS PBO\TUGAS PBO\obj\Debug\net10.0\TUGAS PBO.AssemblyInfoInputs.cache
+D:\PBO PRAK\TUGAS PBO\TUGAS PBO\obj\Debug\net10.0\TUGAS PBO.AssemblyInfo.cs
+D:\PBO PRAK\TUGAS PBO\TUGAS PBO\obj\Debug\net10.0\TUGAS PBO.csproj.CoreCompileInputs.cache
+D:\PBO PRAK\TUGAS PBO\TUGAS PBO\obj\Debug\net10.0\TUGAS PBO.dll
+D:\PBO PRAK\TUGAS PBO\TUGAS PBO\obj\Debug\net10.0\refint\TUGAS PBO.dll
+D:\PBO PRAK\TUGAS PBO\TUGAS PBO\obj\Debug\net10.0\TUGAS PBO.pdb
+D:\PBO PRAK\TUGAS PBO\TUGAS PBO\obj\Debug\net10.0\TUGAS PBO.genruntimeconfig.cache
+D:\PBO PRAK\TUGAS PBO\TUGAS PBO\obj\Debug\net10.0\ref\TUGAS PBO.dll
